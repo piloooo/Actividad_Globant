@@ -24,7 +24,8 @@ Este diagrama representa la estructura de alto nivel y la interconexión de los 
 
 *Interfaz de Administración (Kiosquero): Un módulo específico para que el personal del kiosco pueda gestionar pedidos pendientes y stock.
 
-2. Diagrama de Flujo (Proceso de Compra del Cliente)
+2. Diagrama de Flujo (Proceso de Compra del Cliente) https://lucid.app/lucidchart/0a456353-7258-45f4-ae77-33169859b4d8/edit?viewport_loc=199%2C19%2C1644%2C734%2C0_0&invitationId=inv_75eeedff-575e-4956-ac09-0a561f46f11f
+   
 Este diagrama de secuencia ilustra el camino que sigue un usuario (padre) al interactuar con la aplicación para realizar una compra:
 
 *Muestra el flujo de ingreso, incluyendo la validación inicial de ¿Tiene cuenta? (Registro o Ingreso).
