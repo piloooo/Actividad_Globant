@@ -13,7 +13,8 @@ En resumen, Appetito actúa como un intermediario digital que optimiza la operac
 - Arquitectura del Sistema y Documentación
 Para documentar la arquitectura de Appetito, hemos desarrollado los siguientes diagramas. Se utilizó la herramienta Lucidchart para su creación.
 
-1. Diagrama de Bloques (Arquitectura General)
+1. Diagrama de Bloques (Arquitectura General) https://lucid.app/lucidchart/75a68a09-115a-4d94-b428-f92bf2c2cdb1/edit?viewport_loc=-200%2C-230%2C1995%2C891%2C0_0&invitationId=inv_da2f3e4b-161b-4908-87ed-9f8c95f9935c
+   
 Este diagrama representa la estructura de alto nivel y la interconexión de los componentes tecnológicos esenciales del sistema:
 
 *Interfaz (Frontend): La capa con la que interactúan los padres.
@@ -36,7 +37,8 @@ Este diagrama de secuencia ilustra el camino que sigue un usuario (padre) al int
 
 *El flujo concluye con la Confirmar compra, asegurando que solo se procesen pedidos validados.
 
-3. Diagrama de Casos de Uso (UML)
+3. Diagrama de Casos de Uso (UML) https://lucid.app/lucidchart/1d0f9994-ea95-4abe-a0e0-fc48c5e086f2/edit?invitationId=inv_a24a8e8b-a8b6-4bbd-a36a-19249aecc7a7
+   
 Este diagrama describe las funciones del sistema desde la perspectiva de sus dos actores principales, el Cliente (Padre) y el Kiosco (Kiosquero):
 
 *Cliente (Padre): Realiza funciones como Registrarse, Agregar saldo y Hacer pedido.
