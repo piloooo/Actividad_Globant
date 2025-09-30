@@ -48,7 +48,7 @@ Este diagrama describe las funciones del sistema desde la perspectiva de sus dos
 *Las relaciones de inclusión (líneas punteadas) como Verificar saldo y Verificar DNI muestran que ciertas acciones complejas dependen de procesos de validación internos.
 
 4. Diagrama Entidad-Relación (ER)
-*Este diagrama representa la estructura lógica de la base de datos, vital para garantizar la Coherencia Técnica del proyecto:
+Este diagrama representa la estructura lógica de la base de datos, vital para garantizar la Coherencia Técnica del proyecto:
 
 *Muestra las principales entidades que almacenan datos del sistema: Padre, Alumno, Kiosco, Producto, Pedido y Detalle.
 
