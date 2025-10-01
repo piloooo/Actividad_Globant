@@ -47,7 +47,7 @@ Este diagrama describe las funciones del sistema desde la perspectiva de sus dos
 
 *Las relaciones de inclusión (líneas punteadas) como Verificar saldo y Verificar DNI muestran que ciertas acciones complejas dependen de procesos de validación internos.
 
-4. Diagrama Entidad-Relación (ER)
+4. Diagrama Entidad-Relación (ER) https://lucid.app/lucidchart/879b597d-dc1a-4d21-bb3f-c9287d59defb/edit?viewport_loc=-730%2C-558%2C1981%2C841%2C0_0&invitationId=inv_dc4cb619-d440-4ad8-a996-d96918400f70
 
 Este diagrama representa la estructura lógica de la base de datos, vital para garantizar la Coherencia Técnica del proyecto:
 
